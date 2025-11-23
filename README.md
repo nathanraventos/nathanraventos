@@ -2,7 +2,7 @@
 
 Hello, GitHub!
 
-Software Engineering student at Brigham Young University - Idaho with experience in Python, C#, SQL, and front-end technologies through academic and personal projects—including a custom Canvas calendar extension with API integration. Solid foundation in data structures, object-oriented design, and full-stack development. Eager to contribute to real-world software engineering challenges as an intern and grow as a developer.
+I am a Software Engineering student at Brigham Young University - Idaho with experience in Python, C#, SQL, and front-end technologies through academic and personal projects—including a custom Canvas calendar extension with API integration. Solid foundation in data structures, object-oriented design, and full-stack development. Eager to contribute to real-world software engineering challenges as an intern and grow as a developer.
 
 Technical Skills
 Languages & Frameworks: Python, C#,  HTML,  CSS,  SQL, JavaScript
